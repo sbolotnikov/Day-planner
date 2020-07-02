@@ -32,15 +32,33 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+![day planner demo](/assets/third-party-apis-demo.gif)
 
 ## Review
+overall process GIF
+![day planner demo](/assets/demo-result.gif)
+view of the day panel
+![day planner demo](/assets/1-day-view-panel.png)
+appointment edit form
+![day planner demo](/assets/2-appmt-edit-form.png)
+added appointment
+![day planner demo](/assets/3-added-appmt.png)
+click to edit appointment
+![day planner demo](/assets/4-click-to-edit-on description.png)
+editing appointment
+![day planner demo](/assets/5-edit-apptmt-view.png)
+click to erase
+![day planner demo](/assets/6-click-to-erase.png)
+erased view
+![day planner demo](/assets/7-erased.png)
 
-You are required to submit the following for review:
+
 
 * The URL of the deployed application.
+ https://sbolotnikov.github.io/Day-planner/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository. 
+https://github.com/sbolotnikov/Day-planner
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
