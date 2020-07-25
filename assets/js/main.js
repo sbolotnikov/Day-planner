@@ -154,7 +154,8 @@ function getAppointment(n, aInd) {
             appointments.push(localRes);
         }
         storeResults();
-        drawCalendar()
+        drawCalendar();
+        $('#myModal').modal('hide');
     });
 }
 // cleans day view
@@ -194,6 +195,12 @@ function drawCalendar() {
         tagDiv = $("#hourTag" + i).next();
         tagDiv.attr("value", i);
         tagDiv.css("border", "0.5px dotted lightgrey");
+
+        // tagDiv.css("padding", "35px");
+
+
+
+
         dayHour.set('hour', i);
         if (moment(dayHour).isBefore(hourNow)) {
             tagDiv.css("background-color", 'grey');

@@ -41,3 +41,9 @@ width: 100%;
   width:50%;
 
 }
+#hourTag0,#hourTag1,#hourTag2,#hourTag3,#hourTag4,#hourTag5,#hourTag6,#hourTag7,
+#hourTag8,#hourTag9,#hourTag10,#hourTag11,#hourTag12,#hourTag13,#hourTag14,#hourTag15,
+#hourTag16,#hourTag17,#hourTag18,#hourTag19,#hourTag20,#hourTag21,#hourTag22,#hourTag23
+{
+  height: 20px;
+}
